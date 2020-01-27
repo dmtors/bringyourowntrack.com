@@ -12,7 +12,8 @@ body {
 
 img {
     width: 100%;
-    max-width: 272px;
+    max-width: 366px;
+    min-width: 272px;
     height: auto;
 }
 
